@@ -1,4 +1,7 @@
 [submodule "vite-project"]
+path= vite-project
 	url = https://github.com/sagar-kashyap/AANGAN_Frontend.git
+
 [submodule "server"]
+path = server
 	url = https://github.com/sagar-kashyap/AANGAN-Server.git
